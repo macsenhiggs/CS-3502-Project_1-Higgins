@@ -1,0 +1,14 @@
+/home/mhiggi36/Documents/Bank/obj/Debug/net8.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhiggi36/Documents/Bank/obj/Debug/net8.0/Bank.AssemblyInfoInputs.cache
+/home/mhiggi36/Documents/Bank/obj/Debug/net8.0/Bank.AssemblyInfo.cs
+/home/mhiggi36/Documents/Bank/obj/Debug/net8.0/Bank.csproj.CoreCompileInputs.cache
+/home/mhiggi36/Documents/Bank/bin/Debug/net8.0/Bank
+/home/mhiggi36/Documents/Bank/bin/Debug/net8.0/Bank.deps.json
+/home/mhiggi36/Documents/Bank/bin/Debug/net8.0/Bank.runtimeconfig.json
+/home/mhiggi36/Documents/Bank/bin/Debug/net8.0/Bank.dll
+/home/mhiggi36/Documents/Bank/bin/Debug/net8.0/Bank.pdb
+/home/mhiggi36/Documents/Bank/obj/Debug/net8.0/Bank.dll
+/home/mhiggi36/Documents/Bank/obj/Debug/net8.0/refint/Bank.dll
+/home/mhiggi36/Documents/Bank/obj/Debug/net8.0/Bank.pdb
+/home/mhiggi36/Documents/Bank/obj/Debug/net8.0/Bank.genruntimeconfig.cache
+/home/mhiggi36/Documents/Bank/obj/Debug/net8.0/ref/Bank.dll

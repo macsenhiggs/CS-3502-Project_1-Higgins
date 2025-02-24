@@ -1,0 +1,14 @@
+/home/mhiggi36/Documents/Solver/obj/Debug/net8.0/Solver.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhiggi36/Documents/Solver/obj/Debug/net8.0/Solver.AssemblyInfoInputs.cache
+/home/mhiggi36/Documents/Solver/obj/Debug/net8.0/Solver.AssemblyInfo.cs
+/home/mhiggi36/Documents/Solver/obj/Debug/net8.0/Solver.csproj.CoreCompileInputs.cache
+/home/mhiggi36/Documents/Solver/bin/Debug/net8.0/Solver
+/home/mhiggi36/Documents/Solver/bin/Debug/net8.0/Solver.deps.json
+/home/mhiggi36/Documents/Solver/bin/Debug/net8.0/Solver.runtimeconfig.json
+/home/mhiggi36/Documents/Solver/bin/Debug/net8.0/Solver.dll
+/home/mhiggi36/Documents/Solver/bin/Debug/net8.0/Solver.pdb
+/home/mhiggi36/Documents/Solver/obj/Debug/net8.0/Solver.dll
+/home/mhiggi36/Documents/Solver/obj/Debug/net8.0/refint/Solver.dll
+/home/mhiggi36/Documents/Solver/obj/Debug/net8.0/Solver.pdb
+/home/mhiggi36/Documents/Solver/obj/Debug/net8.0/Solver.genruntimeconfig.cache
+/home/mhiggi36/Documents/Solver/obj/Debug/net8.0/ref/Solver.dll
